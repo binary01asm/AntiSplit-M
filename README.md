@@ -1,4 +1,4 @@
-# AntiSplit M
+# AntiSplit M Forked
 Android app to merge/"AntiSplit" split APKs (APKS/XAPK/APKM) to a regular .APK file
 
 This project is a simple GUI implementation of Merge utilities from [REAndroid APKEditor](https://github.com/REAndroid/APKEditor).
